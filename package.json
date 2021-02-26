@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ktufernando/node-03-bases/issues"
   },
-  "homepage": "https://github.com/ktufernando/node-03-bases#readme"
+  "homepage": "https://github.com/ktufernando/node-03-bases#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
