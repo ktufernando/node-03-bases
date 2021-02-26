@@ -1,1 +1,7 @@
-console.log('Prueba 3');
+const {multiplicar} = require("./multiplicador");
+
+const base = 5;
+
+multiplicar(base);
+
+
