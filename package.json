@@ -1,6 +1,6 @@
 {
   "name": "03-bases",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Aplicación de linea de comandos para multiplicar",
   "main": "index.js",
   "scripts": {
